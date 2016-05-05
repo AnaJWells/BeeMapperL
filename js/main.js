@@ -26,21 +26,26 @@ function createMap(){
 	           subdomains: '1234'
         });
 
-        var OpenStreetMap = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-            attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        //var OpenStreetMap = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        //    maxZoom: 19,
+        //    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        //}).
+
+        var OpenStreetMap_HOT = L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+        	maxZoom: 19,
+        	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>'
         }).addTo(map);
 
         var baseMaps = { "Esri_WorldImagery": Esri_WorldImagery,
-                         "OpenStreetMap": OpenStreetMap,
-                         "MapQuestOpen_Aerial": MapQuestOpen_Aerial,
+                         "OpenStreetMap_HOT": OpenStreetMap_HOT,
+                         //"MapQuestOpen_Aerial": MapQuestOpen_Aerial,
         };
 
     addSites(map, baseMaps);
     var data = getData(map);
 };
 
-
+// add a nice marker
 function addSites(map, baseMaps){
   var beeIcon = L.icon({
       iconUrl: 'lib/leaflet/images/leaf-red.png',
@@ -74,7 +79,7 @@ function getData(map){
     //var svg = d3.select(map.getPanes().overlayPane).append("svg"),
     //g = svg.append("g").attr("class", "leaflet-zoom-hide");
     // Load data at once
-    $.ajax("data/sites.geojson", {
+    $.ajax("data/sitesMeans.geojson", {
         dataType: "json",
         success: function(data){
           //the attributes array -- yrs for sequence
@@ -214,14 +219,16 @@ function pointToLayer(station, latlng, bees){
     //create marker options
     var options = {
         fillColor: "#a50f15",
-        weight: 1,
-        opacity: 1,
+        //weight: 1,
+        //opacity: 1,
         fillOpacity: 0.8,
         stroke: false
     };
 
   ///////////    var attValue = Number(feature.properties[attribute]);
-    if (station.properties['Trt'] !== "SITE") {
+  // need to fix this for comparing sites and treatments
+    if ( (station.properties['Trt'] !== "SITE")
+        && (station.properties['Station'] !== "Mean")) {
       datProps = station.properties;
       // add the number of bees
       for (var prop in datProps) {
@@ -262,7 +269,8 @@ function createPopup(properties, attribute, layer, radius) {
   attValue = attValue.toFixed(0);
 ///////
   var popupContent = "<p><b>" + properties.Name + "</b></p>"
-  popupContent += "<p>Station: " + properties.Site_st + ", "+attValue + " bees" +  "</p>";
+  popupContent += "<p>Station: " + properties.Site_st +
+  "( " +properties.Trt +"), "+attValue + " bees" +  "</p>";
 
   //bind the popup to the circle marker
   layer.bindPopup(popupContent, {
@@ -274,7 +282,7 @@ function createPopup(properties, attribute, layer, radius) {
 // This is a better option for my circles
 function calcPropRadius (attValue) {
     //scale factor to adjust symbol size evenly
-    var scaleFactor = 0.75;  //15;
+    var scaleFactor = 0.55;  //15;
     //area based on attribute value and scale factor
     var area = Math.pow(attValue * scaleFactor,2);
     //console.log('area', area);
