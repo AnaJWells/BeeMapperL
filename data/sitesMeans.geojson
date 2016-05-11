@@ -13,11 +13,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "utterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 21,
         "total": 35,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -39,11 +40,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 16,
         "total": 19,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -65,11 +67,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 18,
         "total": 24,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -91,11 +94,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 15,
         "total": 21,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -117,11 +121,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 15,
         "total": 21,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -143,11 +148,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 2,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 18,
         "total": 30,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -169,11 +175,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.166666667,
         "Honeybee": 0.666666667,
-        "Leaf-cutterBee": 0.333333333,
-        "Long-hornedBee": 0.166666667,
+        "LeafCutterBee": 0.333333333,
+        "LongHornedBee": 0.166666667,
         "SweatBee": 17.16666667,
         "total": 25,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -195,11 +202,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 12,
         "total": 14,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -221,11 +229,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 8,
         "total": 12,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -247,11 +256,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 11,
         "total": 13,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -273,11 +283,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 16,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -299,11 +310,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 8,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 4,
         "total": 14,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -325,11 +337,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 6,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 6,
         "total": 17,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -351,11 +364,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3.5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 9,
         "total": 14.33333333,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -377,11 +391,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 23,
         "total": 24,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -403,11 +418,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 32,
         "total": 38,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -429,11 +445,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 22,
         "total": 28,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -455,11 +472,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 19,
         "total": 21,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -481,11 +499,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 12,
         "total": 19,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -507,11 +526,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 6,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 29,
         "total": 37,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -533,11 +553,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3.666666667,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 22.83333333,
         "total": 27.83333333,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -559,11 +580,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 34,
         "total": 37,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -585,11 +607,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 15,
         "total": 17,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -611,11 +634,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 17,
         "total": 19,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -637,11 +661,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 22,
         "total": 26,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -663,11 +688,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 33,
         "total": 36,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -689,11 +715,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 34,
         "total": 39,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -715,11 +742,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.666666667,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0.333333333,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.333333333,
+        "LongHornedBee": 0,
         "SweatBee": 25.83333333,
         "total": 29,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -741,11 +769,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 1,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 27,
         "total": 35,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -767,11 +796,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 14,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -793,11 +823,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 9,
         "total": 12,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -819,11 +850,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 7,
         "total": 9,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -845,11 +877,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 0,
         "SweatBee": 9,
         "total": 12,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -871,11 +904,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 5,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 9,
         "total": 16,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -897,11 +931,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.666666667,
         "Honeybee": 0.333333333,
-        "Leaf-cutterBee": 0.833333333,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.833333333,
+        "LongHornedBee": 0,
         "SweatBee": 12.33333333,
         "total": 16.33333333,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -923,11 +958,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 11,
         "total": 16,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -949,11 +985,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 15,
         "total": 19,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -975,11 +1012,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 19,
         "total": 21,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1001,11 +1039,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 1,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 12,
         "total": 18,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1027,11 +1066,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 0,
         "total": 0,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1053,11 +1093,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 12,
         "total": 21,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1079,11 +1120,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.833333333,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 0.5,
-        "Long-hornedBee": 0.166666667,
+        "LeafCutterBee": 0.5,
+        "LongHornedBee": 0.166666667,
         "SweatBee": 11.5,
         "total": 15.83333333,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1105,11 +1147,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 24,
         "total": 27,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1131,11 +1174,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 29,
         "total": 37,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1157,11 +1201,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 47,
         "total": 53,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1183,11 +1228,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 31,
         "total": 38,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1209,11 +1255,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 26,
         "total": 28,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1235,11 +1282,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 15,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1261,11 +1309,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.333333333,
         "Honeybee": 0.333333333,
-        "Leaf-cutterBee": 0.166666667,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.166666667,
+        "LongHornedBee": 0,
         "SweatBee": 28.33333333,
         "total": 33,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1287,11 +1336,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 0,
         "SweatBee": 30,
         "total": 36,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1313,11 +1363,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 19,
         "total": 20,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1339,11 +1390,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 33,
         "total": 38,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1365,11 +1417,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 49,
         "total": 53,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1391,11 +1444,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 37,
         "total": 38,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1417,11 +1471,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 1,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 1,
         "SweatBee": 39,
         "total": 48,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1443,11 +1498,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.833333333,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0.166666667,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0.166666667,
         "SweatBee": 34.5,
         "total": 38.83333333,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1469,11 +1525,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 62,
         "total": 63,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1495,11 +1552,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 37,
         "total": 41,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1521,11 +1579,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 34,
         "total": 36,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1547,11 +1606,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 52,
         "total": 56,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1573,11 +1633,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 71,
         "total": 73,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1599,11 +1660,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 54,
         "total": 56,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1625,11 +1687,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.333333333,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0.333333333,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.333333333,
+        "LongHornedBee": 0,
         "SweatBee": 51.66666667,
         "total": 54.16666667,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1651,11 +1714,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 69,
         "total": 73,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1677,11 +1741,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 53,
         "total": 56,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1703,11 +1768,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 62,
         "total": 68,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1729,11 +1795,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 51,
         "total": 53,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1755,11 +1822,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 75,
         "total": 78,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1781,11 +1849,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 54,
         "total": 60,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1807,11 +1876,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.833333333,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 60.66666667,
         "total": 64.66666667,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1833,11 +1903,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 23,
         "total": 26,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1859,11 +1930,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 32,
         "total": 37,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1885,11 +1957,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 29,
         "total": 33,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1911,11 +1984,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 24,
         "total": 26,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1937,11 +2011,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 24,
         "total": 26,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1963,11 +2038,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 14,
         "total": 21,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1989,11 +2065,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.666666667,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0.666666667,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.666666667,
+        "LongHornedBee": 0,
         "SweatBee": 24.33333333,
         "total": 28.16666667,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2015,11 +2092,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 24,
         "total": 27,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2041,11 +2119,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 14,
         "total": 17,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2067,11 +2146,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 9,
         "total": 11,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2093,11 +2173,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 18,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2119,11 +2200,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 8,
         "total": 11,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2145,11 +2227,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 0,
         "SweatBee": 11,
         "total": 18,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2171,11 +2254,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 0.5,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.5,
+        "LongHornedBee": 0,
         "SweatBee": 13.16666667,
         "total": 17,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2197,11 +2281,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 8,
         "total": 11,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2223,11 +2308,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 6,
         "total": 7,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2249,11 +2335,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 7,
         "total": 8,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2275,11 +2362,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 5,
         "total": 10,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2301,11 +2389,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 11,
         "total": 11,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2327,11 +2416,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 6,
         "total": 10,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2353,11 +2443,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.5,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 0.166666667,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.166666667,
+        "LongHornedBee": 0,
         "SweatBee": 7.166666667,
         "total": 9.5,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2379,11 +2470,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 9,
         "total": 15,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2405,11 +2497,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 6,
         "total": 9,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2431,11 +2524,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 16,
         "total": 19,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2457,11 +2551,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 18,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2483,11 +2578,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 1,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 0,
         "SweatBee": 10,
         "total": 18,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2509,11 +2605,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 16,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2535,11 +2632,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.333333333,
         "Honeybee": 0.333333333,
-        "Leaf-cutterBee": 0.333333333,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.333333333,
+        "LongHornedBee": 0,
         "SweatBee": 11.16666667,
         "total": 15.83333333,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2561,11 +2659,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 8,
         "total": 13,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2587,11 +2686,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 2,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 8,
         "total": 13,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2613,11 +2713,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 10,
         "total": 16,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2639,11 +2740,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 8,
         "total": 12,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2665,11 +2767,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 6,
         "total": 12,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2691,11 +2794,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 10,
         "total": 20,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2717,11 +2821,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.333333333,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 8.333333333,
         "total": 14.33333333,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2743,11 +2848,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 34,
         "total": 34,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2769,11 +2875,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 15,
         "total": 16,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2795,11 +2902,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 35,
         "total": 37,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2821,11 +2929,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 2,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 28,
         "total": 34,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2847,11 +2956,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 0,
         "total": 0,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2873,11 +2983,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 6,
         "Honeybee": 4,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 41,
         "total": 53,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2899,11 +3010,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 0,
         "total": 0,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2925,11 +3037,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 6,
         "Honeybee": 1,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 51,
         "total": 63,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2951,11 +3064,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 0,
         "total": 0,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2972,16 +3086,17 @@
         "Station": "Mean",
         "Site_st": 16,
         "Trt": "HIGH",
-        "BumbleBee": 0.333333333,
-        "CarpenterBee": 0.666666667,
+        "BumbleBee": 0.444444444,
+        "CarpenterBee": 0.444444444,
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.333333333,
         "Honeybee": 1.166666667,
-        "Leaf-cutterBee": 0.5,
-        "Long-hornedBee": 0,
-        "SweatBee": 20,
-        "total": 25,
-        "Name": "Sweet Briar College"
+        "LeafCutterBee": 0.5,
+        "LongHornedBee": 0,
+        "SweatBee": 22.66666667,
+        "total": 26.33333333,
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3003,11 +3118,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 1,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 6,
         "total": 10,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3029,11 +3145,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 15,
         "total": 19,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3055,11 +3172,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 1,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 0,
         "SweatBee": 10,
         "total": 14,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3081,11 +3199,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 14,
         "total": 18,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3107,11 +3226,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 14,
         "total": 15,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3133,11 +3253,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 22,
         "total": 27,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3159,11 +3280,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.333333333,
         "Honeybee": 0.666666667,
-        "Leaf-cutterBee": 0.666666667,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.666666667,
+        "LongHornedBee": 0,
         "SweatBee": 13.5,
         "total": 17.16666667,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3185,11 +3307,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 16,
         "total": 20,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3211,11 +3334,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 2,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 33,
         "total": 39,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3237,11 +3361,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 19,
         "total": 23,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3263,11 +3388,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 15,
         "total": 17,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3289,11 +3415,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 25,
         "total": 27,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3315,11 +3442,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 23,
         "total": 26,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3341,11 +3469,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0.833333333,
         "Honeybee": 0.666666667,
-        "Leaf-cutterBee": 0.166666667,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.166666667,
+        "LongHornedBee": 0,
         "SweatBee": 21.83333333,
         "total": 25.33333333,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3367,11 +3496,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 17,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3393,11 +3523,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 3,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 10,
         "total": 17,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3419,11 +3550,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 10,
         "total": 12,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3445,11 +3577,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 18,
         "total": 22,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3471,11 +3604,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 2,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 0,
         "SweatBee": 20,
         "total": 26,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3497,11 +3631,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 18,
         "total": 21,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3523,11 +3658,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0.833333333,
         "Honeybee": 1.166666667,
-        "Leaf-cutterBee": 0.5,
-        "Long-hornedBee": 0.166666667,
+        "LeafCutterBee": 0.5,
+        "LongHornedBee": 0.166666667,
         "SweatBee": 14.83333333,
         "total": 19.16666667,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3549,11 +3685,93 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 0,
         "total": 0,
-        "Name": "Sweet Briar College"
+        "Name": "Sweet Briar College",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0704444,
+          37.5497778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "CONTROL",
+        "BumbleBee": 1.083333333,
+        "CarpenterBee": 0.833333333,
+        "ChimneyBee": 0,
+        "GreenMetallicBee": 2.416666667,
+        "Honeybee": 0.222222222,
+        "LeafCutterBee": 0.333333333,
+        "LongHornedBee": 0.055555556,
+        "SweatBee": 16.44444444,
+        "total": 21.38888889,
+        "Name": "Sweet Briar College",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0704444,
+          37.5497778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "LOW",
+        "BumbleBee": 0.866666667,
+        "CarpenterBee": 0.433333333,
+        "ChimneyBee": 0,
+        "GreenMetallicBee": 2,
+        "Honeybee": 0.1,
+        "LeafCutterBee": 0.433333333,
+        "LongHornedBee": 0.033333333,
+        "SweatBee": 39.9,
+        "total": 43.76666667,
+        "Name": "Sweet Briar College",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0704444,
+          37.5497778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "HIGH",
+        "BumbleBee": 1.013888889,
+        "CarpenterBee": 0.409722222,
+        "ChimneyBee": 0,
+        "GreenMetallicBee": 1.6875,
+        "Honeybee": 0.666666667,
+        "LeafCutterBee": 0.354166667,
+        "LongHornedBee": 0.020833333,
+        "SweatBee": 14.08333333,
+        "total": 18.08333333,
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3570,16 +3788,17 @@
         "Station": "Mean",
         "Site_st": 0,
         "Trt": "SITE",
-        "BumbleBee": 0.916666667,
-        "CarpenterBee": 0.194444444,
+        "BumbleBee": 0.982905983,
+        "CarpenterBee": 0.547008547,
         "ChimneyBee": 0,
-        "GreenMetallicBee": 0.805555556,
-        "Honeybee": 0.694444444,
-        "Leaf-cutterBee": 0.416666667,
-        "Long-hornedBee": 0.194444444,
-        "SweatBee": 13.47222222,
-        "total": 16.69444444,
-        "Name": "Sweet Briar College"
+        "GreenMetallicBee": 1.948717949,
+        "Honeybee": 0.367521368,
+        "LeafCutterBee": 0.358974359,
+        "LongHornedBee": 0.042735043,
+        "SweatBee": 21.64957265,
+        "total": 25.8974359,
+        "Name": "Sweet Briar College",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3601,11 +3820,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 8,
         "total": 16,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3627,11 +3847,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 7,
         "total": 10,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3653,11 +3874,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 3,
         "total": 8,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3679,11 +3901,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 8,
         "total": 11,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3705,11 +3928,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 1,
         "total": 3,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3731,11 +3955,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 1,
         "SweatBee": 5,
         "total": 11,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3757,11 +3982,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.166666667,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1.166666667,
-        "Long-hornedBee": 0.666666667,
+        "LeafCutterBee": 1.166666667,
+        "LongHornedBee": 0.666666667,
         "SweatBee": 5.333333333,
         "total": 9.833333333,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3783,11 +4009,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 7,
         "total": 8,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3809,11 +4036,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 3,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 3,
         "SweatBee": 6,
         "total": 12,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3835,11 +4063,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 5,
         "total": 6,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3861,11 +4090,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 2,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 2,
         "SweatBee": 6,
         "total": 11,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3887,11 +4117,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 6,
         "total": 10,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3913,11 +4144,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 8,
         "Honeybee": 0,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 3,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 3,
         "SweatBee": 22,
         "total": 36,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3939,11 +4171,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.166666667,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 1.333333333,
-        "Long-hornedBee": 1.5,
+        "LeafCutterBee": 1.333333333,
+        "LongHornedBee": 1.5,
         "SweatBee": 8.666666667,
         "total": 13.83333333,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3965,11 +4198,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 2,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 2,
         "SweatBee": 16,
         "total": 20,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3991,11 +4225,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 19,
         "total": 25,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4017,11 +4252,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 24,
         "total": 29,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4043,11 +4279,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 1,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 0,
         "SweatBee": 35,
         "total": 44,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4069,11 +4306,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 6,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 6,
         "SweatBee": 27,
         "total": 37,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4095,11 +4333,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 4,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 4,
         "SweatBee": 42,
         "total": 50,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4121,11 +4360,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.166666667,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 1.666666667,
-        "Long-hornedBee": 2.333333333,
+        "LeafCutterBee": 1.666666667,
+        "LongHornedBee": 2.333333333,
         "SweatBee": 27.16666667,
         "total": 34.16666667,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4147,11 +4387,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 4,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 4,
+        "LongHornedBee": 1,
         "SweatBee": 10,
         "total": 17,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4173,11 +4414,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 16,
         "total": 20,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4199,11 +4441,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 11,
         "total": 12,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4225,11 +4468,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 3,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 3,
         "SweatBee": 9,
         "total": 16,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4251,11 +4495,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 3,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 3,
         "SweatBee": 10,
         "total": 15,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4277,11 +4522,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 1,
         "SweatBee": 11,
         "total": 17,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4303,11 +4549,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0.5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2.166666667,
-        "Long-hornedBee": 1.5,
+        "LeafCutterBee": 2.166666667,
+        "LongHornedBee": 1.5,
         "SweatBee": 11.16666667,
         "total": 16.16666667,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4329,11 +4576,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 2,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 2,
         "SweatBee": 17,
         "total": 22,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4355,11 +4603,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 7,
-        "Long-hornedBee": 3,
+        "LeafCutterBee": 7,
+        "LongHornedBee": 3,
         "SweatBee": 14,
         "total": 27,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4381,11 +4630,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 0,
         "SweatBee": 30,
         "total": 34,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4407,11 +4657,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 25,
         "total": 28,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4433,11 +4684,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 0,
         "SweatBee": 22,
         "total": 25,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4459,11 +4711,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 1,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 2,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 2,
         "SweatBee": 12,
         "total": 17,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4485,11 +4738,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0.833333333,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 2.666666667,
-        "Long-hornedBee": 1.333333333,
+        "LeafCutterBee": 2.666666667,
+        "LongHornedBee": 1.333333333,
         "SweatBee": 20,
         "total": 25.5,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4511,11 +4765,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 0,
         "total": 2,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4537,11 +4792,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 8,
         "total": 10,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4563,11 +4819,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 2,
         "total": 4,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4589,11 +4846,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 4,
         "total": 5,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4615,11 +4873,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 2,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 2,
         "SweatBee": 7,
         "total": 11,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4641,11 +4900,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 6,
         "total": 7,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4667,11 +4927,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0.833333333,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0.333333333,
-        "Long-hornedBee": 0.666666667,
+        "LeafCutterBee": 0.333333333,
+        "LongHornedBee": 0.666666667,
         "SweatBee": 4.5,
         "total": 6.5,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4693,11 +4954,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 10,
         "total": 15,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4719,11 +4981,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 14,
         "total": 16,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4745,11 +5008,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 10,
         "total": 12,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4771,11 +5035,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 8,
         "total": 10,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4797,11 +5062,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 16,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4823,11 +5089,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 4,
         "total": 10,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4849,11 +5116,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.5,
         "Honeybee": 0.333333333,
-        "Leaf-cutterBee": 0.333333333,
-        "Long-hornedBee": 0.166666667,
+        "LeafCutterBee": 0.333333333,
+        "LongHornedBee": 0.166666667,
         "SweatBee": 9.833333333,
         "total": 13.16666667,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4875,11 +5143,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 2,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 2,
         "SweatBee": 9,
         "total": 16,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4901,11 +5170,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 22,
         "total": 26,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4927,11 +5197,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 22,
         "total": 24,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4953,11 +5224,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 24,
         "total": 27,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4979,11 +5251,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 25,
         "total": 28,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5005,11 +5278,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 2,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 2,
         "SweatBee": 37,
         "total": 46,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5031,11 +5305,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0.5,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0.5,
+        "LongHornedBee": 1,
         "SweatBee": 23.16666667,
         "total": 27.83333333,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5057,11 +5332,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 1,
         "SweatBee": 23,
         "total": 29,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5083,11 +5359,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 30,
         "total": 33,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5109,11 +5386,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 0,
         "SweatBee": 15,
         "total": 21,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5135,11 +5413,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 2,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 2,
         "SweatBee": 20,
         "total": 28,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5161,11 +5440,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 36,
         "total": 41,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5187,11 +5467,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 23,
         "total": 27,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5213,11 +5494,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.666666667,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0.833333333,
-        "Long-hornedBee": 0.666666667,
+        "LeafCutterBee": 0.833333333,
+        "LongHornedBee": 0.666666667,
         "SweatBee": 24.5,
         "total": 29.83333333,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5239,11 +5521,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 30,
         "total": 32,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5265,11 +5548,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 3,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 3,
         "SweatBee": 24,
         "total": 31,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5291,11 +5575,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 29,
         "total": 31,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5317,11 +5602,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 17,
         "total": 18,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5343,11 +5629,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 2,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 2,
         "SweatBee": 20,
         "total": 23,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5369,11 +5656,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 20,
         "total": 22,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5395,11 +5683,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0.666666667,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0.5,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0.5,
+        "LongHornedBee": 1,
         "SweatBee": 23.33333333,
         "total": 26.16666667,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5421,11 +5710,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 14,
         "total": 18,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5447,11 +5737,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 20,
         "total": 22,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5473,11 +5764,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 26,
         "total": 30,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5499,11 +5791,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 21,
         "total": 22,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5525,11 +5818,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 9,
         "total": 14,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5551,11 +5845,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 14,
         "total": 16,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5577,11 +5872,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0.666666667,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0.5,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0.5,
         "SweatBee": 17.33333333,
         "total": 20.33333333,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5603,11 +5899,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 24,
         "total": 31,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5629,11 +5926,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 18,
         "total": 26,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5655,11 +5953,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 0,
         "SweatBee": 25,
         "total": 30,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5681,11 +5980,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 23,
         "total": 24,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5707,11 +6007,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 18,
         "total": 21,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5733,11 +6034,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 3,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 3,
         "SweatBee": 20,
         "total": 27,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5759,11 +6061,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0.833333333,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 1.166666667,
-        "Long-hornedBee": 0.5,
+        "LeafCutterBee": 1.166666667,
+        "LongHornedBee": 0.5,
         "SweatBee": 21.33333333,
         "total": 26.5,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5785,11 +6088,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 11,
         "total": 12,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5811,11 +6115,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 15,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5837,11 +6142,12 @@
         "ChimneyBee": 1,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 22,
         "total": 29,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5863,11 +6169,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 30,
         "total": 35,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5889,11 +6196,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 1,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 0,
         "SweatBee": 24,
         "total": 31,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5915,11 +6223,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 42,
         "total": 47,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5941,11 +6250,12 @@
         "ChimneyBee": 0.166666667,
         "GreenMetallicBee": 1.333333333,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 0.666666667,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.666666667,
+        "LongHornedBee": 0,
         "SweatBee": 23.66666667,
         "total": 28.16666667,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5967,11 +6277,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 7,
         "total": 12,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -5993,11 +6304,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 1,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 18,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6019,11 +6331,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 9,
         "total": 12,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6045,11 +6358,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 0,
         "SweatBee": 7,
         "total": 14,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6071,11 +6385,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 8,
         "total": 12,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6097,11 +6412,39 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 5,
         "total": 7,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.111292,
+          36.884036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 32,
+        "Station": "Mean",
+        "Site_st": 33,
+        "Trt": "HIGH",
+        "BumbleBee": 1.166666667,
+        "CarpenterBee": 1,
+        "ChimneyBee": 0.166666667,
+        "GreenMetallicBee": 1.333333333,
+        "Honeybee": 0.166666667,
+        "LeafCutterBee": 0.666666667,
+        "LongHornedBee": 0,
+        "SweatBee": 8.166666667,
+        "total": 12.5,
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6123,11 +6466,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 0,
         "total": 0,
-        "Name": "Falcons"
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6144,16 +6488,98 @@
         "Station": "Mean",
         "Site_st": 0,
         "Trt": "SITE",
-        "BumbleBee": 1,
-        "CarpenterBee": 0.166666667,
+        "BumbleBee": 0.678571429,
+        "CarpenterBee": 0.44047619,
+        "ChimneyBee": 0.011904762,
+        "GreenMetallicBee": 1.321428571,
+        "Honeybee": 0.107142857,
+        "LeafCutterBee": 1.023809524,
+        "LongHornedBee": 0.869047619,
+        "SweatBee": 16.29761905,
+        "total": 20.75,
+        "Name": "Falcons",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.114467,
+          36.887325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "CONTROL",
+        "BumbleBee": 0.277777778,
+        "CarpenterBee": 0.333333333,
         "ChimneyBee": 0,
-        "GreenMetallicBee": 1.166666667,
-        "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 0.833333333,
-        "Long-hornedBee": 0.166666667,
-        "SweatBee": 7,
-        "total": 10.5,
-        "Name": "Falcons"
+        "GreenMetallicBee": 1.277777778,
+        "Honeybee": 0.083333334,
+        "LeafCutterBee": 1.555555556,
+        "LongHornedBee": 1.333333333,
+        "SweatBee": 12.80555556,
+        "total": 17.66666667,
+        "Name": "Falcons",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.114467,
+          36.887325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "LOW",
+        "BumbleBee": 0.708333333,
+        "CarpenterBee": 0.291666667,
+        "ChimneyBee": 0,
+        "GreenMetallicBee": 1.708333334,
+        "Honeybee": 0.083333333,
+        "LeafCutterBee": 0.541666667,
+        "LongHornedBee": 0.708333334,
+        "SweatBee": 20.20833333,
+        "total": 24.25,
+        "Name": "Falcons",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.114467,
+          36.887325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "HIGH",
+        "BumbleBee": 0.958333334,
+        "CarpenterBee": 0.625,
+        "ChimneyBee": 0.041666667,
+        "GreenMetallicBee": 0.958333333,
+        "Honeybee": 0.125,
+        "LeafCutterBee": 0.708333334,
+        "LongHornedBee": 0.25,
+        "SweatBee": 16.83333333,
+        "total": 20.5,
+        "Name": "Falcons",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6175,11 +6601,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 12,
         "total": 13,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6201,11 +6628,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 7,
         "total": 9,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6227,11 +6655,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 17,
         "total": 23,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6253,11 +6682,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 23,
         "total": 28,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6279,11 +6709,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 20,
         "total": 24,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6305,11 +6736,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 5,
         "total": 7,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6331,11 +6763,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.666666667,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0.166666667,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0.166666667,
+        "LongHornedBee": 0,
         "SweatBee": 14,
         "total": 17.33333333,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6357,11 +6790,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 15,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6383,11 +6817,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 17,
         "total": 23,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6409,11 +6844,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 16,
         "total": 22,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6435,11 +6871,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 12,
         "total": 17,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6461,11 +6898,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 11,
         "total": 24,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6487,11 +6925,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 3,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 3,
         "SweatBee": 12,
         "total": 21,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6513,11 +6952,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.833333333,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0.5,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0.5,
         "SweatBee": 13.5,
         "total": 20.33333333,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6539,11 +6979,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 0,
         "total": 0,
-        "Name": "Inge Mann"
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6560,16 +7001,71 @@
         "Station": "Mean",
         "Site_st": 0,
         "Trt": "SITE",
-        "BumbleBee": 1.25,
-        "CarpenterBee": 2.166666667,
+        "BumbleBee": 1.346153846,
+        "CarpenterBee": 1.230769231,
         "ChimneyBee": 0,
-        "GreenMetallicBee": 2.638888889,
+        "GreenMetallicBee": 2.294871795,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0.583333333,
-        "SweatBee": 10.75,
-        "total": 17.38888889,
-        "Name": "Inge Mann"
+        "LeafCutterBee": 0.076923077,
+        "LongHornedBee": 0.269230769,
+        "SweatBee": 13.73076923,
+        "total": 18.94871795,
+        "Name": "Inge Mann",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.130331,
+          37.062827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "LOW",
+        "BumbleBee": 1.166666667,
+        "CarpenterBee": 0.333333333,
+        "ChimneyBee": 0,
+        "GreenMetallicBee": 1.666666667,
+        "Honeybee": 0,
+        "LeafCutterBee": 0.166666667,
+        "LongHornedBee": 0,
+        "SweatBee": 14,
+        "total": 17.33333333,
+        "Name": "Inge Mann",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.130331,
+          37.062827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "HIGH",
+        "BumbleBee": 1.5,
+        "CarpenterBee": 2,
+        "ChimneyBee": 0,
+        "GreenMetallicBee": 2.833333333,
+        "Honeybee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0.5,
+        "SweatBee": 13.5,
+        "total": 20.33333333,
+        "Name": "Inge Mann",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6591,11 +7087,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 16,
         "total": 25,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6617,11 +7114,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 6,
         "total": 8,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6643,11 +7141,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 3,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 3,
         "SweatBee": 13,
         "total": 18,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6669,11 +7168,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 16,
         "total": 23,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6695,11 +7195,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 19,
         "total": 25,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6721,11 +7222,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 1,
         "SweatBee": 18,
         "total": 26,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6747,11 +7249,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.833333333,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1.333333333,
-        "Long-hornedBee": 1.166666667,
+        "LeafCutterBee": 1.333333333,
+        "LongHornedBee": 1.166666667,
         "SweatBee": 14.66666667,
         "total": 20.83333333,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6773,11 +7276,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 17,
         "total": 25,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6799,11 +7303,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 15,
         "total": 22,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6825,11 +7330,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 4,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 16,
         "total": 21,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6851,11 +7357,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 15,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 14,
         "total": 31,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6877,11 +7384,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 10,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 13,
         "total": 25,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6903,11 +7411,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 9,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 23,
         "total": 36,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6929,11 +7438,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 7.166666667,
         "Honeybee": 0.166666667,
-        "Leaf-cutterBee": 0.333333333,
-        "Long-hornedBee": 0.166666667,
+        "LeafCutterBee": 0.333333333,
+        "LongHornedBee": 0.166666667,
         "SweatBee": 16.33333333,
         "total": 26.66666667,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6955,11 +7465,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 1,
         "SweatBee": 17,
         "total": 23,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -6981,11 +7492,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 2,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 2,
+        "LongHornedBee": 1,
         "SweatBee": 19,
         "total": 23,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7007,11 +7519,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 16,
         "total": 22,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7033,11 +7546,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 3,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 3,
         "SweatBee": 15,
         "total": 21,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7059,11 +7573,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1,
         "SweatBee": 14,
         "total": 18,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7085,11 +7600,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 3,
         "total": 6,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7111,11 +7627,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1.5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 1.166666667,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 1.166666667,
         "SweatBee": 14,
         "total": 18.83333333,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7137,11 +7654,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 3,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 12,
         "total": 21,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7163,11 +7681,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 5,
         "Honeybee": 0,
-        "Leaf-cutterBee": 1,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 1,
+        "LongHornedBee": 0,
         "SweatBee": 17,
         "total": 25,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7189,11 +7708,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 3,
-        "Long-hornedBee": 2,
+        "LeafCutterBee": 3,
+        "LongHornedBee": 2,
         "SweatBee": 11,
         "total": 17,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7215,11 +7735,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2,
         "Honeybee": 1,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 6,
         "total": 13,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7241,11 +7762,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 11,
         "total": 12,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7267,11 +7789,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 1,
         "Honeybee": 2,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 1,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 1,
         "SweatBee": 19,
         "total": 29,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7293,11 +7816,12 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 2.166666667,
         "Honeybee": 0.5,
-        "Leaf-cutterBee": 0.833333333,
-        "Long-hornedBee": 0.666666667,
+        "LeafCutterBee": 0.833333333,
+        "LongHornedBee": 0.666666667,
         "SweatBee": 12.66666667,
         "total": 19.5,
-        "Name": "Elzay "
+        "Name": "Elzay ",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -7319,10 +7843,91 @@
         "ChimneyBee": 0,
         "GreenMetallicBee": 0,
         "Honeybee": 0,
-        "Leaf-cutterBee": 0,
-        "Long-hornedBee": 0,
+        "LeafCutterBee": 0,
+        "LongHornedBee": 0,
         "SweatBee": 0,
         "total": 0,
+        "Name": "Elzay ",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.115443,
+          37.127585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "LOW",
+        "BumbleBee": 0.888888889,
+        "CarpenterBee": 0.944444444,
+        "ChimneyBee": 0,
+        "GreenMetallicBee": 3.5,
+        "Honeybee": 0.055555556,
+        "LeafCutterBee": 0.888888889,
+        "LongHornedBee": 0.833333333,
+        "SweatBee": 15,
+        "total": 22.11111111,
+        "Name": "Elzay ",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.115443,
+          37.127585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "HIGH",
+        "BumbleBee": 2,
+        "CarpenterBee": 0.666666667,
+        "ChimneyBee": 0,
+        "GreenMetallicBee": 2.166666667,
+        "Honeybee": 0.5,
+        "LeafCutterBee": 0.833333333,
+        "LongHornedBee": 0.666666667,
+        "SweatBee": 12.66666667,
+        "total": 19.5,
+        "Name": "Elzay ",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.115443,
+          37.127585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Number": 0,
+        "Station": "Mean",
+        "Site_st": 0,
+        "Trt": "SITE",
+        "BumbleBee": 1.166666667,
+        "CarpenterBee": 0.875,
+        "ChimneyBee": 0,
+        "GreenMetallicBee": 3.166666667,
+        "Honeybee": 0.166666667,
+        "LeafCutterBee": 0.875,
+        "LongHornedBee": 0.791666667,
+        "SweatBee": 14.41666667,
+        "total": 21.45833333,
         "Name": "Elzay "
       },
       "geometry": {
