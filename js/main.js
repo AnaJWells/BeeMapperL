@@ -139,7 +139,9 @@ function addSites(map, data, baseMaps){
    var overlaySites = {"sites": sites};
 
    L.control.layers(baseMaps, overlaySites).addTo(map);
-  //L.control.layers(baseLayers).addTo(map);
+  // add information
+   //$("#panel").html("  ");
+  
 };
 
 ////////////////
@@ -315,7 +317,7 @@ function createPopup(properties, attribute, layer, radius) {
   "Diversity: </b>" +properties.Trt + "<br><b>"+ "Mean: </b>"+ attValue + " bees per station" +  "</p>";
 
 
-  var panelContent = "<p><b>" + properties.Name + " - Station " + properties.Site_st + " <br></b>";
+  var panelContent = '<p  ><b>' + properties.Name + " - Station " + properties.Site_st + " <br></b>";
   panelContent += "<p>Mean Number of Bee Morphospecis   </b></p> ";
   panelContent += "Bumble: "  + Number(properties.BumbleBee).toFixed(0) + " bee(s) <br>" +  " Carpenter: " + Number(properties.CarpenterBee).toFixed(0) + " bee(s)" +  "<br>";
   panelContent += "Chimney: " +  Number(properties.ChimneyBee).toFixed(0) + " bee(s) <br> " + " Green Metallic: " + Number(properties.GreenMetallicBee).toFixed(0) + " bee(s)" + "<br>";

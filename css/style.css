@@ -17,7 +17,16 @@
 }
 
 #mySelector {
+    position: fixed;
+    top: 100px;
+    right: 100px;
     width:  100px;
+}
+
+#panelContent{
+    position: fixed;
+    top: 100px;
+    right: 200px;
 }
 
 .select {
